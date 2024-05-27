@@ -2,6 +2,8 @@
 
 O Meteora é uma loja de roupas. Atualmente, temos o código inicial de sua landing page, onde iremos atualizando conforme promoções.
 
+<img src="./assets/screenshot.png" alt="Meteora">
+
 ## 🔨 Funcionalidades do projeto
 
 Temos um projeto que foi idealizada com o objetivo de uma apresentação de uma landing page de um loja de roupas, com preços e promoções.  
